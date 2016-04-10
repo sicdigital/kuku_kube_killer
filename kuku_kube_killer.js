@@ -24,4 +24,4 @@ for( i = 0; i < boxes.length; i++)
 }
 	box_array[0].click();
   box_array[1].click();
-}, 10);
+}, 5);
